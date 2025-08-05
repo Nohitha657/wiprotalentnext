@@ -2,5 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.StringJoiner"/>
     <fullyQualifiedTypeName name="music.Playable"/>
+    <fullyQualifiedTypeName name="List.Employee1"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

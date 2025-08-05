@@ -8,7 +8,7 @@ public class Question4 {
 		list.add(456);
 		list.add(4.3);
 		list.add(3.453456);
-		list.add("apple");
+//		list.add("apple");
 	}
 
 }
