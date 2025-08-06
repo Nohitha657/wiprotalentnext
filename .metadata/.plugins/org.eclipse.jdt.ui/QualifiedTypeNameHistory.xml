@@ -4,4 +4,6 @@
     <fullyQualifiedTypeName name="music.Playable"/>
     <fullyQualifiedTypeName name="List.Employee1"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
 </qualifiedTypeNameHistroy>
